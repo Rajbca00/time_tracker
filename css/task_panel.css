@@ -1,0 +1,21 @@
+.add_task{
+    float: right;
+}
+.input-group{
+    margin-bottom: 10px;
+}
+.modal{
+    border-radius: 5px;
+}
+.text-mini{
+    width: 45px;
+}
+.today_tasks{
+    overflow: scroll;
+    max-height: 400px;
+}
+.due{
+    border-left: 1px solid #333;
+    width: 40px;
+    float: right;
+}
